@@ -1,2 +1,1 @@
-# suhas
-new repository
+This is git test
